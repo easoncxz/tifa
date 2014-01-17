@@ -63,6 +63,11 @@ a:visited { color: #a0a; }
   line-height: 1.5em;
 }
 
+.header{
+  border-bottom: 4px solid #eee;
+  margin-bottom: 2em;
+}
+
 .header a {
   font-weight: bold;
   text-decoration: none;
@@ -70,23 +75,14 @@ a:visited { color: #a0a; }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  font-size: 2em;
 }
 
 .title a {
-  color: #a00;
+  color: #8085C1;
 }
 
 .title a:hover {
-  color: #000;
-}
-
-.header a.extra {
-  color: #aaa;
-  margin-left: 1em;
-}
-
-.header a.extra:hover {
   color: #000;
 }
 
