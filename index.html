@@ -9,5 +9,8 @@ title: 提法的认识
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+    {% for this_page in site.pages %}
+      <li><a href="{{ site.baseurl }}{{ this_page.url }}">{{ this_page.title }}</a></li>
+    {% endfor %}
   </ul>
 </div>
