@@ -103,16 +103,19 @@ main h2 {
   font-size: 1.5em;
 }
 
-main ul {
+/****************************************************
+list-of-entries
+****************************************************/
+main ul, main ol {
   padding: 0 0 0 2em;
 }
 
-main ul li {
+main ul li, main ol li {
   line-height: 1.5em;
-  display: block;
-  float: left;
-  width: 50%;
 }
+/****************************************************
+end list-of-entries
+****************************************************/
 
 footer {
   font-size: 80%;
