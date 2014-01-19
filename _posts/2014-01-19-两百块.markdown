@@ -1,0 +1,6 @@
+---
+layout: post
+title: 两百块
+---
+
+dummy text here for entry: 两百块

@@ -1,0 +1,6 @@
+---
+layout: post
+title: 志献
+---
+
+dummy text here for entry: 志献

@@ -1,0 +1,6 @@
+---
+layout: post
+title: 三点内容
+---
+
+dummy text here for entry: 三点内容

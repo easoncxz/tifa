@@ -1,0 +1,6 @@
+---
+layout: post
+title: 允许
+---
+
+dummy text here for entry: 允许

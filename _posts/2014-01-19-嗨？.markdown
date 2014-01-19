@@ -1,0 +1,6 @@
+---
+layout: post
+title: 嗨？
+---
+
+dummy text here for entry: 嗨？

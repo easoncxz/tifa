@@ -1,0 +1,6 @@
+---
+layout: post
+title: 饮
+---
+
+dummy text here for entry: 饮

@@ -1,0 +1,6 @@
+---
+layout: post
+title: 相貌
+---
+
+dummy text here for entry: 相貌

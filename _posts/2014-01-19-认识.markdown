@@ -1,0 +1,6 @@
+---
+layout: post
+title: 认识
+---
+
+dummy text here for entry: 认识

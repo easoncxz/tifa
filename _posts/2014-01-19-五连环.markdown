@@ -1,0 +1,6 @@
+---
+layout: post
+title: 五连环
+---
+
+dummy text here for entry: 五连环

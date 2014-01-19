@@ -1,0 +1,6 @@
+---
+layout: post
+title: 啷？
+---
+
+dummy text here for entry: 啷？

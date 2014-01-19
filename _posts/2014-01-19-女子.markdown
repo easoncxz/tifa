@@ -1,0 +1,6 @@
+---
+layout: post
+title: 女子
+---
+
+dummy text here for entry: 女子

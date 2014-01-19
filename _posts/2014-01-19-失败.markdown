@@ -1,0 +1,6 @@
+---
+layout: post
+title: 失败
+---
+
+dummy text here for entry: 失败

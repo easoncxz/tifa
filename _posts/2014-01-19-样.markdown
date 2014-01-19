@@ -1,0 +1,6 @@
+---
+layout: post
+title: 样
+---
+
+dummy text here for entry: 样

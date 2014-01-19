@@ -1,0 +1,6 @@
+---
+layout: post
+title: 速度
+---
+
+dummy text here for entry: 速度

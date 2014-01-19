@@ -1,0 +1,6 @@
+---
+layout: post
+title: 九
+---
+
+dummy text here for entry: 九

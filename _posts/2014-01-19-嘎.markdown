@@ -1,0 +1,6 @@
+---
+layout: post
+title: 嘎
+---
+
+dummy text here for entry: 嘎

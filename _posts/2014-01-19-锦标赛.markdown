@@ -1,0 +1,6 @@
+---
+layout: post
+title: 锦标赛
+---
+
+dummy text here for entry: 锦标赛

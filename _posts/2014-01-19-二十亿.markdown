@@ -1,0 +1,6 @@
+---
+layout: post
+title: 二十亿
+---
+
+dummy text here for entry: 二十亿

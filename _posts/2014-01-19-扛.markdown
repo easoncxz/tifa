@@ -1,0 +1,6 @@
+---
+layout: post
+title: 扛
+---
+
+dummy text here for entry: 扛

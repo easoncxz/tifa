@@ -1,0 +1,6 @@
+---
+layout: post
+title: 姓名
+---
+
+dummy text here for entry: 姓名

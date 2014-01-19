@@ -1,0 +1,6 @@
+---
+layout: post
+title: 牛
+---
+
+dummy text here for entry: 牛

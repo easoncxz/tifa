@@ -1,0 +1,6 @@
+---
+layout: post
+title: 不怎么有
+---
+
+dummy text here for entry: 不怎么有

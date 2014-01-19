@@ -1,0 +1,6 @@
+---
+layout: post
+title: 马格拉巴
+---
+
+dummy text here for entry: 马格拉巴

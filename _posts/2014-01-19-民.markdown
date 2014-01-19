@@ -1,0 +1,6 @@
+---
+layout: post
+title: 民
+---
+
+dummy text here for entry: 民

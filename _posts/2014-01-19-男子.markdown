@@ -1,0 +1,6 @@
+---
+layout: post
+title: 男子
+---
+
+dummy text here for entry: 男子

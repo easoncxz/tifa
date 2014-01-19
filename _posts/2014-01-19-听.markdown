@@ -1,0 +1,6 @@
+---
+layout: post
+title: 听
+---
+
+dummy text here for entry: 听

@@ -1,0 +1,6 @@
+---
+layout: post
+title: 鸦片
+---
+
+dummy text here for entry: 鸦片
