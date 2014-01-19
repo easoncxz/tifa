@@ -136,6 +136,10 @@ footer ul {
 /*****************************************************************************/
 
 /* standard */
+.post p {
+  margin: 1.5em 0 2em;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
