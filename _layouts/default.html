@@ -16,23 +16,22 @@
     <body>
 
         <div class="site">
-          <div class="header">
+          <header>
             <h1 class="title"><a href="{{ site.baseurl }}">{{ site.name }}</a></h1>
-          </div>
+            {% include nav.html %}
+          </header>
+          <main>
 
           {{ content }}
 
-          <div class="footer">
-            <div class="contact">
-            <p>
+          </main>
+          <footer>
             <ul>
-                <li>written by <a href="https://twitter.com/easoncxz">@easoncxz</a></li>
-                <li>generated using <a href="http://jekyllrb.com">Jekyll</a></li>
-                <li>source code on <a href="https://github.com/easoncxz/tifa">GitHub</a></li>
+              <li>written by <a href="https://twitter.com/easoncxz">@easoncxz</a></li>
+              <li>generated using <a href="http://jekyllrb.com">Jekyll</a></li>
+              <li>source code on <a href="https://github.com/easoncxz/tifa">GitHub</a></li>
             </ul>
-            </p>
-            </div>
-          </div>
+          </footer>
         </div>
 
     </body>
