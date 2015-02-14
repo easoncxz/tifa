@@ -1,5 +1,4 @@
 name: 提法的认识
 markdown: redcarpet
 pygments: true
-baseurl: /tifa
 permalink: /posts/:title
